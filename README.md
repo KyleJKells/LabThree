@@ -1,2 +1,4 @@
 # LabThree
+Ethan Miles
+Surya Manavalan
 Benjamin Cunningham
