@@ -1,4 +1,6 @@
 # LabThree
-Project Team Members
+Project Team Members:
 Ethan Miles
-Here is the edit from Browser.
+Surya Manavalan
+Benjamin Cunningham
+Kyle Kells
