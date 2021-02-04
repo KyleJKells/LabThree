@@ -1,4 +1,5 @@
 # LabThree
+Project Team Members:
 Ethan Miles
 Surya Manavalan
 Benjamin Cunningham
